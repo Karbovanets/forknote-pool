@@ -82,6 +82,7 @@ Comes with lightweight example front-end script which uses the pool's AJAX API.
 
 * http://democats.org
 * http://cryptonotepool.com/
+* https://krb.dreampool.info/
 
 Usage
 ===
